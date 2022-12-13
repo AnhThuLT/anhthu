@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(232, 117, 176);
+}
+.box{
+   
+    padding-left: 100px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border: 1px solid white;
+    width: 350px;
+    height: auto;
+    background-color:white;
+    
+    margin: auto;
+
+}
+.D1 div{
+    display: inline-block;
+    font-family: Comic Sans MS;
+    
+    
+}
+img{
+    width:70px;
+    height: 70px;
+
+}
+button{
+    width: 350px;
+    height:50px ;
+    background-color: rgb(215, 100, 148);
+    border: 1px solid white; 
+    
+}
+.chu{
+    font-family: Comic Sans MS;
+    font-size: x-large ;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.Text{
+    margin-top: -20px !important;
+}
+
